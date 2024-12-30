@@ -1,5 +1,5 @@
 <script lang="ts">
-	import App from '$lib/components/threlte-examples/initial-create-threlte-demo/App.svelte';
+	import App from '$lib/components/threlte-examples/usegltf/App.svelte';
 </script>
 
 <div>
